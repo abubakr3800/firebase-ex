@@ -1,0 +1,19 @@
+المجموعة: tasks
+
+المستندات (تلقائيًا):
+- ABC123: {
+    title: "إنشاء واجهة المستخدم",
+    description: "تصميم واجهة المستخدم الرئيسية",
+    priority: "high",
+    createdAt: January 15, 2024 at 10:30:00 AM UTC+3,
+    status: "pending",
+    completed: false
+  }
+- DEF456: {
+    title: "إصلاح الأخطاء",
+    description: "إصلاح الأخطاء في صفحة التسجيل",
+    priority: "medium",
+    createdAt: January 14, 2024 at 2:45:00 PM UTC+3,
+    status: "in-progress",
+    completed: false
+  }
